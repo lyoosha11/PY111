@@ -3,7 +3,6 @@ class DZ:
     def __init__(self):
         self.data = input('Enter somewhere: ')
 
-    @property
     def processing(self):
         string = []
         integer = []
